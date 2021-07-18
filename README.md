@@ -1,5 +1,7 @@
 ### **Hello, I am Dhwanit Pandya**
 ___
+<img src="https://komarev.com/ghpvc/?username=Dhwanit2501&label=PROFILE+VIEWS&color=48cae4&style=flat">
+
 <p>
 I'm a MERN Stack Developer. Always keen on learning new stuff through projects. It would be great to work with new people, interested ones can reach me out on LinkedIn.
 
