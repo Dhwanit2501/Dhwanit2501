@@ -11,12 +11,12 @@ ___
 ### 🔧 Technologies & Tools
 
 I'm proficient with a wide range of technologies and tools, including:
-●	Programming languages: C, C++, Java, and Python
-●	Scripting languages: JavaScript, Powershell, and Bash.
-●	Big Data Technologies: Apache Spark and Hadoop
-●	Database: SQL, PostgreSQL, MongoDB, and Firebase.
-●	Frameworks: React.js, Next.js and Flask
-●	Tools: Visual Studio, Eclipse, Jupyter Notebook, Cisco Packet Tracer, Wireshark, and VCS-Git.
+- Programming languages: C, C++, Java, and Python
+- Scripting languages: JavaScript, Powershell, and Bash.
+- Big Data Technologies: Apache Spark and Hadoop
+- Database: SQL, PostgreSQL, MongoDB, and Firebase.
+- Frameworks: React.js, Next.js and Flask
+- Tools: Visual Studio, Eclipse, Jupyter Notebook, Cisco Packet Tracer, Wireshark, and VCS-Git.
 
 ### 🌱 What I'm Currently Learning
 
