@@ -10,7 +10,6 @@ I'm currently a student majoring in Electronics and Telecommunication engineerin
 
 ### **My GitHub Status**
 
-<img src="https://github-readme-stats.vercel.app/api?username=Dhwanit2501&show_icons=true&bg_color=60,212529,343a40,495057,&title_color=03ea68&text_color=ffffff&icon_color=03ea68&border_color=ffffff">
 
 ### **Contact** 
 <a href="https://www.linkedin.com/in/dhwanitpandya"><img src="Logo/icons8-linkedin-48.png"></a>
