@@ -2,14 +2,34 @@
 ___
 <img src="https://komarev.com/ghpvc/?username=Dhwanit2501&label=PROFILE+VIEWS&color=00b4d8&style=flat">
 
-<p>
-I'm a MERN Stack Developer. Always keen on learning new stuff through projects. It would be great to work with new people, interested ones can reach me out on LinkedIn.
+### 👨‍💻 About Me
 
-I'm currently a student majoring in Electronics and Telecommunication engineering at DJSCE.
-<p>
+- 💼 Currently working as a **Senior Analyst in Tech Consulting (Cybersecurity) at EY**.
+- 🌟 Practical experience in Full-stack development for building elegant and efficient software.
+- 🌍 Based in India, but my code travels worldwide.
 
-### **My GitHub Status**
+### 🔧 Technologies & Tools
 
+I'm proficient with a wide range of technologies and tools, including:
+●	Programming languages: C, C++, Java, and Python
+●	Scripting languages: JavaScript, Powershell, and Bash.
+●	Big Data Technologies: Apache Spark and Hadoop
+●	Database: SQL, PostgreSQL, MongoDB, and Firebase.
+●	Frameworks: React.js, Next.js and Flask
+●	Tools: Visual Studio, Eclipse, Jupyter Notebook, Cisco Packet Tracer, Wireshark, and VCS-Git.
+
+### 🌱 What I'm Currently Learning
+
+- Exploring Cloud environment and serverless architecture.
+- Sharpening my skills in the Network and Cloud Security domain.
+
+### 💼 Open to Collaboration
+
+I'm always open to collaborating on exciting projects, especially if they involve:
+
+- 💡 Innovative ideas.
+- 🌐 Open source contributions that make a difference.
+- 🚀 Anything related to prompt engineering or AI.
 
 ### **Contact** 
 <a href="https://www.linkedin.com/in/dhwanitpandya"><img src="Logo/icons8-linkedin-48.png"></a>
