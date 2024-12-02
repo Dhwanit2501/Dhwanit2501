@@ -4,7 +4,8 @@ ___
 
 ### 👨‍💻 About Me
 
-- 💼 Currently working as a **Senior Analyst in Tech Consulting (Cybersecurity) at EY**.
+-  Currently pursuing my Master's in Computer Science at Indiana University Bloomington.
+- 💼 Worked as a **Senior Analyst in Tech Consulting (Cybersecurity) at EY**.
 - 🌟 Practical experience in Full-stack development for building elegant and efficient software.
 - 🌍 Based in India, but my code travels worldwide.
 
