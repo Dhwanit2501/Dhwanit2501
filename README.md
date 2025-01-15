@@ -14,6 +14,7 @@ I'm proficient with a wide range of technologies and tools, including:
 - Programming languages: C, C++, Java, and Python
 - Scripting languages: JavaScript, Powershell, and Bash.
 - Big Data Technologies: Apache Spark and Hadoop
+- DevOps & CI/CD Tools: Docker, Kubernetes, Terraform, Ansible, Chef, Jenkins
 - Database: SQL, PostgreSQL, MongoDB, and Firebase.
 - Frameworks: React.js, Next.js and Flask
 - Tools: Visual Studio, Eclipse, Jupyter Notebook, Cisco Packet Tracer, Wireshark, and VCS-Git.
@@ -21,7 +22,7 @@ I'm proficient with a wide range of technologies and tools, including:
 ### 🌱 What I'm Currently Learning
 
 - Exploring Cloud environment and serverless architecture.
-- Sharpening my skills in the Network and Cloud Security domain.
+- Sharpening my skills in the DevSecOps and Cloud Security domain.
 
 ### 💼 Open to Collaboration
 
