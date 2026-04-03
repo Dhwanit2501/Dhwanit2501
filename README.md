@@ -1,34 +1,22 @@
-### **Hello, I am Dhwanit Pandya**
-___
 <img src="https://komarev.com/ghpvc/?username=Dhwanit2501&label=PROFILE+VIEWS&color=00b4d8&style=flat">
 
 <!-- Header Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a2e1a,100:00c853&height=220&section=header&text=Dhwanit%20Pandya&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Security%20Engineer%20%7C%20AI%20Security%20Researcher%20%7C%20Full-Stack%20Developer&descAlignY=55&descSize=16&descColor=7dff7d" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a2e1a,100:00c853&height=220&section=header&text=Hello,%20I%20am%20Dhwanit%20Pandya&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Security%20Engineer%20%7C%20AI%20Security%20Researcher%20%7C%20Security%20Software%20Developer&descAlignY=55&descSize=16&descColor=7dff7d" width="100%"/>
 </p>
 
 <!-- Typing SVG -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=00C853&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=100&lines=%F0%9F%94%90+Building+defenses+against+prompt+injection+attacks;%F0%9F%9B%A1%EF%B8%8F+Embedding+shift-left+security+into+SDLC;%E2%9A%A1+Bridging+cybersecurity+%26+AI+at+scale;%F0%9F%8E%93+MS+Computer+Science+%40+Indiana+University+(3.93+GPA)" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=4000&pause=1500&color=00C853&center=true&vCenter=true&repeat=true&width=800&height=45&lines=Building+solutions+that+solve+real-world+security+problems;Turning+complex+security+risks+into+clear,+actionable+strategies" alt="Typing SVG" />
   </a>
 </p>
 
 <!-- Profile Views & Social Badges -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Dhwanit2501&label=PROFILE+VIEWS&color=00c853&style=for-the-badge" alt="Profile Views"/>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/dhwanitpandya">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  &nbsp;
-  <a href="mailto:pandyadhwanit25@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  &nbsp;
-  <a href="https://github.com/Dhwanit2501">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio"/>
-  </a>
+  <a href="https://www.linkedin.com/in/dhwanitpandya"><img src="Logo/icons8-linkedin-48.png"></a>
+  <a href="mailto:pandyadhwanit25@gmail.com?hl=en"><img src="Logo/icons8-gmail-48.png"></a>
+  <a href="mailto:pandyadhwanit25@gmail.com?hl=en"><img src="Logo/icons8-gmail-48.png"></a>
 </p>
 
 ---
@@ -141,7 +129,7 @@ fun_fact: "Solved 80% of CTF challenges at BSides 2024 🚩"
 🛡️ Prompt Shield — Context-Aware Prompt Injection Defense for LLM Chatbots
 <!-- Place assets/prompt-shield-metrics.svg in your repo -->
 <p align="center">
-  <img src="assets/prompt-shield-metrics.svg" alt="Prompt Shield Metrics" width="100%"/>
+  <img src="Logo/prompt-shield-metrics.svg" alt="Prompt Shield Metrics" width="100%"/>
 </p>
 <p align="center">
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
@@ -154,7 +142,7 @@ fun_fact: "Solved 80% of CTF challenges at BSides 2024 🚩"
 🔍 AI Dependency Guardian — Open-Source SCA Scanner with AI-Powered Risk Reports
 <!-- Place assets/dependency-guardian-metrics.svg in your repo -->
 <p align="center">
-  <img src="assets/dependency-guardian-metrics.svg" alt="AI Dependency Guardian Metrics" width="100%"/>
+  <img src="Logo/dependency-guardian-metrics.svg" alt="AI Dependency Guardian Metrics" width="100%"/>
 </p>
 <p align="center">
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
@@ -165,21 +153,6 @@ fun_fact: "Solved 80% of CTF challenges at BSides 2024 🚩"
 </p>
 
 ---
-
-## 💼 Experience Timeline
-
-```
-🔬 2025 - Present  │  Cybersecurity Research Fellow @ CACR, Indiana University
-                    │  ├─ Built 30+ criteria AI tool evaluation framework
-                    │  ├─ Adversarial AI risk evaluations across 5+ detection workflows
-                    │  └─ Co-delivered 4hr workshop @ NSF Cybersecurity Summit (200+ attendees)
-                    │
-🏢 2023 - 2024      │  Cybersecurity Analyst, Tech Consulting @ Ernst & Young
-                    │  ├─ Remediated 20+ critical misconfigs, eliminated 10 high-risk attack paths
-                    │  ├─ Fixed 25+ high-severity AppSec vulns via SAST/code review
-                    │  ├─ Achieved 65% NIST CSF/800-53 alignment
-                    │  └─ Python automation saved ~3.5 analyst hours/week
-```
 
 ---
 
