@@ -8,12 +8,11 @@
 <!-- Typing SVG -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=4000&pause=1500&color=00C853&center=true&vCenter=true&repeat=true&width=800&height=45&lines=Building+solutions+that+solve+real-world+security+problems;Turning+complex+security+risks+into+clear,+actionable+strategies" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=4000&pause=3000&color=00C853&center=true&vCenter=true&repeat=true&width=800&height=45&lines=Building+solutions+that+solve+real-world+security+problems;Turning+complex+security+risks+into+clear,+actionable+strategies" alt="Typing SVG" />
   </a>
 </p>
 
 
----
 
 ## 🧑‍💻 About Me
 
