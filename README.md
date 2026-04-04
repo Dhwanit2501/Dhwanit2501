@@ -12,12 +12,6 @@
   </a>
 </p>
 
-<!-- Profile Views & Social Badges -->
-<p align="center">
-  <a href="https://www.linkedin.com/in/dhwanitpandya"><img src="Logo/icons8-linkedin-48.png"></a>
-  <a href="mailto:pandyadhwanit25@gmail.com?hl=en"><img src="Logo/icons8-gmail-48.png"></a>
-  <a href="mailto:pandyadhwanit25@gmail.com?hl=en"><img src="Logo/icons8-gmail-48.png"></a>
-</p>
 
 ---
 
@@ -26,32 +20,35 @@
 ```yaml
 name: Dhwanit Samir Pandya
 location: Bloomington, IN
-current_role: Cybersecurity Research Fellow @ CACR, Indiana University
+current_role: Cybersecurity Research Fellow @ CACR, Software Engineer @ REN-ISAC, Indiana University
 previous_role: Cybersecurity Analyst, Technology Consulting @ Ernst & Young (EY)
 education: MS Computer Science @ Indiana University Bloomington (GPA 3.93/4)
 
 focus_areas:
+  - Software Security
   - AI Security & Adversarial ML
-  - Prompt Injection Defense Systems
   - Shift-Left Security & Secure SDLC
   - Cloud Security & DevSecOps
-
-fun_fact: "Solved 80% of CTF challenges at BSides 2024 🚩"
+  - Blue Teaming
 ```
 
----
 
 ## 🏅 Certifications
 
+
 <p align="center">
   <img src="https://img.shields.io/badge/CompTIA_Security+-FF0000?style=for-the-badge&logo=comptia&logoColor=white" alt="CompTIA Security+"/>
+  &nbsp;
   <img src="https://img.shields.io/badge/ISC2_CC-00A651?style=for-the-badge&logo=isc2&logoColor=white" alt="ISC2 CC"/>
+  &nbsp;
   <img src="https://img.shields.io/badge/AWS_Cloud_Practitioner-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS CCP"/>
+</p>
+<p align="center">
   <img src="https://img.shields.io/badge/NVIDIA_GenAI_LLMs-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="NVIDIA GenAI"/>
+  &nbsp;
   <img src="https://img.shields.io/badge/Oracle_OCI_AI-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="OCI AI"/>
 </p>
 
----
 
 ## ⚒️ Tech Arsenal
 
@@ -62,13 +59,9 @@ fun_fact: "Solved 80% of CTF challenges at BSides 2024 🚩"
 **🔐 Security & Offensive**
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=kali,linux&theme=dark" alt="Security Tools"/>
+  <img src="https://skillicons.dev/icons?i=kali,linux,windows&theme=dark" alt="Security Tools"/>
   <br/>
-  <img src="https://img.shields.io/badge/Nmap-4682B4?style=flat-square&logo=nmap&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Splunk_SIEM-000000?style=flat-square&logo=splunk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VMware-607078?style=flat-square&logo=vmware&logoColor=white"/>
+  <img src="https://skills.syvixor.com/api/icons?perline=15&i=nmap,splunk,burpsuite,wireshark,vmware"/>
 </p>
 
 </td>
@@ -77,10 +70,8 @@ fun_fact: "Solved 80% of CTF challenges at BSides 2024 🚩"
 **☁️ Cloud & DevOps**
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,githubactions&theme=dark" alt="Cloud & DevOps"/>
+  <img src="https://skills.syvixor.com/api/icons?perline=4&i=aws,azure,docker,kubernetes,terraform,ansible,githubactions&theme=dark" alt="Cloud & DevOps"/>
   <br/>
-  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white"/>
 </p>
 
 </td>
@@ -100,7 +91,7 @@ fun_fact: "Solved 80% of CTF challenges at BSides 2024 🚩"
 **🌐 Web & Databases**
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,flask,mysql,postgres,mongodb,firebase&theme=dark" alt="Web & DB"/>
+  <img src="https://skills.syvixor.com/api/icons?perline=4&i=react,nextjs,flask,fastapi,node,mysql,postgresql,mongodb&theme=dark" alt="Web & DB"/>
 </p>
 
 </td>
@@ -125,9 +116,9 @@ fun_fact: "Solved 80% of CTF challenges at BSides 2024 🚩"
 
 ---
 
-🚀 Featured Projects
-🛡️ Prompt Shield — Context-Aware Prompt Injection Defense for LLM Chatbots
-<!-- Place assets/prompt-shield-metrics.svg in your repo -->
+### Featured Projects
+
+🛡️ <a href="https://github.com/Dhwanit2501/PromptShield">**Prompt Shield**</a> - A context-Aware Prompt Injection Defense System for LLM Chatbots
 <p align="center">
   <img src="Logo/prompt-shield-metrics.svg" alt="Prompt Shield Metrics" width="100%"/>
 </p>
@@ -139,8 +130,7 @@ fun_fact: "Solved 80% of CTF challenges at BSides 2024 🚩"
 <img src="https://img.shields.io/badge/OWASP-000000?style=flat-square&logo=owasp&logoColor=white"/>
 </p>
 
-🔍 AI Dependency Guardian — Open-Source SCA Scanner with AI-Powered Risk Reports
-<!-- Place assets/dependency-guardian-metrics.svg in your repo -->
+🔍 <a href="https://github.com/Dhwanit2501/AI-Open-Source-Dependency-Guardian">**AI Open-Source Dependency Guardian**</a> - A SCA scanner to detect vulnerable and outdated dependencies
 <p align="center">
   <img src="Logo/dependency-guardian-metrics.svg" alt="AI Dependency Guardian Metrics" width="100%"/>
 </p>
@@ -152,9 +142,6 @@ fun_fact: "Solved 80% of CTF challenges at BSides 2024 🚩"
 <img src="https://img.shields.io/badge/OSV-1a73e8?style=flat-square"/>
 </p>
 
----
-
----
 
 ## 📊 GitHub Stats
 
@@ -172,45 +159,37 @@ fun_fact: "Solved 80% of CTF challenges at BSides 2024 🚩"
   <img width="49%" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Dhwanit2501&layout=compact&theme=gotham&hide_border=true&bg_color=0d1117&title_color=00c853&text_color=c9d1d9&langs_count=8" alt="Top Languages"/>
 </p>
 
----
 
 ## 🏆 Extracurriculars & CTFs
 
 <p align="center">
   <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe"/>
   <img src="https://img.shields.io/badge/LetsDefend-0078D4?style=for-the-badge&logoColor=white" alt="LetsDefend"/>
-  <img src="https://img.shields.io/badge/BSides_CTF_2024-80%25_Challenges_Solved-00c853?style=for-the-badge" alt="BSides CTF"/>
-  <img src="https://img.shields.io/badge/BSides_2025-CTF_Village_Volunteer-39ff14?style=for-the-badge&logoColor=000000" alt="BSides 2025"/>
+  <img src="https://img.shields.io/badge/BSides_2025-CTF_Village_Volunteer-39f14?style=for-the-badge" alt="BSides 2025"/>
   <img src="https://img.shields.io/badge/NSF_Summit-Workshop_Speaker-76B900?style=for-the-badge" alt="NSF Summit"/>
 </p>
 
----
 
 ## 🌱 Currently Exploring
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Adversarial_AI_Risk_Evaluation-0d1117?style=for-the-badge&logo=openai&logoColor=00c853"/>
+  <img src="https://img.shields.io/badge/AI_Security-0d1117?style=for-the-badge&logo=openai&logoColor=00c853"/>
   <img src="https://img.shields.io/badge/Cloud_Security_Architecture-0d1117?style=for-the-badge&logo=amazonwebservices&logoColor=00c853"/>
   <img src="https://img.shields.io/badge/DevSecOps_&_Secure_SDLC-0d1117?style=for-the-badge&logo=githubactions&logoColor=00c853"/>
   <img src="https://img.shields.io/badge/LLM_Safety_&_Red_Teaming-0d1117?style=for-the-badge&logo=openai&logoColor=00c853"/>
 </p>
 
----
 
 ## 🤝 Open to Collaboration
 
 <p align="center">
-  <i>If your project touches <b>AI security</b>, <b>prompt injection defense</b>, <b>DevSecOps</b>, or <b>open-source security tooling</b> — let's talk.</i>
+  <i>If your project touches <b>AI security</b>, <b>Software Security</b>, <b>DevSecOps</b>, or <b>open-source security tooling</b> - let's talk.</i>
 </p>
-
+<!-- Profile Views & Social Badges -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/dhwanitpandya">
-    <img src="https://img.shields.io/badge/Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  &nbsp;
-  <a href="mailto:pandyadhwanit25@gmail.com">
-    <img src="https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
+  <a href="https://www.linkedin.com/in/dhwanitpandya"><img src="Logo/icons8-linkedin-48.png"></a>&nbsp;&nbsp;&nbsp;
+  <a href="mailto:dhwanitpandya2501@gmail.com?hl=en"><img src="Logo/icons8-gmail-48 (1).png"></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://dhwanitpandya.com/"><img src="Logo/icons8-portfolio-48.png"></a>
 </p>
 
 ---
@@ -231,11 +210,4 @@ fun_fact: "Solved 80% of CTF challenges at BSides 2024 🚩"
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a2e1a,100:00c853&height=120&section=footer" width="100%"/>
 </p>
-
-### **Contact** 
-<a href="https://www.linkedin.com/in/dhwanitpandya"><img src="Logo/icons8-linkedin-48.png"></a>
-<a href="mailto:pandyadhwanit25@gmail.com?hl=en"><img src="Logo/icons8-gmail-48.png"></a> 
-
-
-I have completed several projects throughout my courses and you can check them out right below.
 
